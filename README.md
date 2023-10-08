@@ -1,4 +1,3 @@
 # film-site
-
-<h1>Spiderman Film Site</h1>
-<img src="/img/Film Sitesi.gif"/>
+<h1>spiderman film site<h1>
+<img src="/img/spiderman film site.gif"/>
